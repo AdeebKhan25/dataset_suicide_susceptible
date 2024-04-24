@@ -1,2 +1,3 @@
 # dataset_suicide_susceptible
-The "Student Suicide Risk Factors Dataset" is a comprehensive collection of data aimed at understanding and mitigating the factors contributing to student suicides. 
+This is a comprehensive collection of data aimed at understanding and mitigating the factors contributing to student suicides. 
+The dataset comprises 14 input features, including age, gender, mental health support, academic pressure, experiences of caste/religious discrimination, mental harassment, relationship issues, depression, academic misconduct (caught in UFM), family problems, feelings of life frustration, sexual assault/harassment and blackmail, mental stress, and online gaming addiction. Each feature is binary, denoted as either 1 for "yes" and 0 for "no". The target variable indicates the likelihood of suicide susceptibility, categorized into three levels: high chances (value = 1), medium chances (value = 2), and low chances (value = 0).
