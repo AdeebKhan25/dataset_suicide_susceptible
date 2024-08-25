@@ -39,3 +39,4 @@ print(data.head())
 
 1. This dataset is very small and in no way describes the situation at large.
 2. Use the dataset cautiously for any inference.
+3. All the information in this dataset is taken from publicly available news reports and anonymous surveys at my institution. 
